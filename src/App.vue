@@ -32,9 +32,9 @@ export default {
   margin: 0 auto;
 }
 
-#app {
+/* #app {
   margin-top: 60px;
-}
+} */
 
 .logo {
   display: block;
@@ -42,14 +42,13 @@ export default {
   height: 75px;
 }
 
-#app {
+/* #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* text-align: center; */
   color: #2c3e50;
   font-size: 24px;
-}
+} */
 #nav {
   padding: 30px;
 }
